@@ -1,3 +1,7 @@
+/*
+
+isArraySorted
+*/
 const isArraySorted = (arr) =>{
     let isAsc, isDesc;
     isAsc = arr.every((elem, i, ar) => !i || (elem >= ar[i - 1]));

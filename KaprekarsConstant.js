@@ -1,4 +1,4 @@
-
+/* KaprekarsConstant */
 const KaprekarsConstant = (input) =>{
     let counter =  0;
     let expected = 6174;
