@@ -1,1 +1,1 @@
-# JS_Exercise
+# JS Exercise
